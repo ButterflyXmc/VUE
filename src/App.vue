@@ -1,19 +1,12 @@
 <template>
 <!-- id the div -->
-
+<!-- can ony use app as an ID because vue only allows this ID -->
 <div id="app">
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- 5. -->
   <!-- using the file name that we declared -->
     <MyComponent/>
-  
-  <!-- crate a component
-        export it in export defauld
-         then import in the component youre gonna be using it in
-         then declare in the component
-         then use it 
-         
-         declare, register, use -->
+    
 </div>
   
 </template>

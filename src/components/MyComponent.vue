@@ -1,6 +1,17 @@
+<!--    1. Crate a component
+        2. Export it in export default
+        3. Import in the component youre gonna be using it in
+        4. Declare in the component
+        5. Use it 
+ -->    <!-- DECLARE, REGISTER, USE -->
+
+
+
+
+
+
+<!-- type vbase and click on vbase-css-->
 <template>
-<!-- type vbase and click on vbase-css 
-    and then-->
     <div>
 <!-- 2. -->
 <!-- then delete the helloworld.vue -->
