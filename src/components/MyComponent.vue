@@ -1,13 +1,9 @@
-<!--    1. Crate a component
-        2. Export it in export default
-        3. Import in the component youre gonna be using it in
-        4. Declare in the component
-        5. Use it 
+<!--    -. Crate a component
+        -. Export it in export default
+        -. Import in the component youre gonna be using it in
+        -. Declare in the component
+        -. Use it 
  -->    <!-- DECLARE, REGISTER, USE -->
-
-
-
-
 
 
 <!-- type vbase and click on vbase-css-->

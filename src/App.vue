@@ -4,21 +4,22 @@
 <div id="app">
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- 5. -->
-  <!-- using the file name that we declared -->
+  <!-- (3) using the file name that we declared -->
     <MyComponent/>
     
 </div>
   
 </template>
 
+ <!-- DECLARE, REGISTER, USE -->
 
 <script>
-// 3.
+// 3. (1) Declaring the component
 import MyComponent from '@/components/MyComponent.vue';
 
 export default {
   name: 'App',
-// 4. register your component
+// 4. (2) Register your component
   components: {
     // register your component
     MyComponent
