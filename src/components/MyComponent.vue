@@ -1,7 +1,5 @@
 <!--    -. Crate a component
         -. Export it in export default
-        -. Import in the component youre gonna be using it in
-        -. Declare in the component
         -. Use it 
  -->    <!-- DECLARE, REGISTER, USE -->
 
